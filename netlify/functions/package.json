@@ -1,0 +1,10 @@
+{
+  "name": "littercloud",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "dirtbirb",
+    "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
